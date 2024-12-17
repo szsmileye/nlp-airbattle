@@ -1,0 +1,18 @@
+
+screen :
+  width : 480
+  height : 600
+  bg_src : "../assets/images/background.png"
+
+player :
+  image_path : "../assets/images/player1.png"
+  speed : 2
+
+enemy :
+  image_path : "../assets/images/enemy1.png"
+  image_destory_path : "../assets/images/enemy1_down4.png"
+  speed : 1
+
+bullet :
+  image_path : "../assets/images/bullet1.png"
+  speed : 5
